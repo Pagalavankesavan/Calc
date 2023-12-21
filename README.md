@@ -120,6 +120,9 @@ calc.html
                 color:white;
                 font-size: 50px;
             }
+            h2{
+                color: aqua;
+            }
             .redd {
                 background-color: brown;
             }
@@ -135,7 +138,8 @@ calc.html
     </head>
 <body>
     <div class="calculator-container">
-        <h1>CALCULATOR</h1>
+        <h1>TAMILPAGALAVAN K</h1>
+        <h2>23010135</h2>
         <div id="result">0</div>
         <button onclick="calculate(event);">7</button>
         <button onclick="calculate(event);">8</button>
@@ -146,7 +150,7 @@ calc.html
         <button onclick="calculate(event);">5</button>
         <button onclick="calculate(event);">6</button>
         <button class="bluee"  onclick="calculate(event);">*</button>
-        <button class="bluee"  onclick="calculate(event);">√ </button><br>
+        <button class="bluee"  onclick="calculate(event);">&radic;</button><br>
         <button onclick="calculate(event);">1</button>
         <button onclick="calculate(event);">2</button>
         <button onclick="calculate(event);">3</button>
@@ -163,7 +167,9 @@ calc.html
 
 ```
 ## OUTPUT:
-![Alt text](<Screenshot (34).png>)
+![Alt text](<Screenshot (35).png>)
+![Alt text](<Screenshot (36).png>)
+
 
 
 ## RESULT:
